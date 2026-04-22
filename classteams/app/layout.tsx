@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, Plus_Jakarta_Sans } from "next/font/google";
-import "./globals.css";
+import "./globals.css"; // Global styles bisa karena Tailwind CSS sudah diatur di sini yaitu di (global.d.ts  dan globals.css).
 
 // Font optimization
 const inter = Inter({

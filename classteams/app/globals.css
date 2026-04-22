@@ -185,10 +185,10 @@ select:focus {
 
 @media screen and (max-width: 768px) {
  
-
   :hover .hover\:bg-primary:hover {
     background-color: var(--color-primary);
   }
+  
   
 }
 /* Responsive images */

@@ -26,7 +26,7 @@ export default function Footer() {
           ))}
         </nav>
         <div className="text-on-surface-variant">
-          © 2024 ClassTeams. The Digital Atheneum.
+          © 202 ClassTeams. The Digital Atheneum.
         </div>
       </div>
     </footer>

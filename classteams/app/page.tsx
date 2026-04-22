@@ -5,7 +5,6 @@ import Image from "next/image";
 export const metadata = {
   title: "ClassTeams - Home",
 };
-
 export default function HomePage() {
   return (
     <div className="flex flex-col min-h-screen bg-surface text-on-surface">
@@ -44,11 +43,11 @@ export default function HomePage() {
             <div className="lg:w-1/2 relative z-10 w-full">
               <div className="relative rounded-2xl bg-surface-container-low p-2">
                 <Image
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuDSKD61G7KtBHAVbpSY3pQ8RKQDcmizGRNGpmzE_6XNS9JO50DYG0pmOgP6ErT9oxmcH4oAEIprbnraSl7jZVKmqlTQFfREYoI39p7jrsAwk0TdHZNgHwujagatbtoPe7LyqQBJNjSmytmPKNqX0CWDqhXUgt2Cq9oO7st4k3GxQ6PCdo3-jtmXD0dEJOl4haHCI7UVdW3rkr37nPdBa3-wcRDb8AYMZOR7tDj5rO1gbxq86nw1nXRs5vmB_J6RQBAgisBsj3CW3mI"
+                  src="/images/classteams-app.png"
                   alt="Dashboard Preview"
                   width={800}
                   height={500}
-                  className="rounded-xl w-full h-auto shadow-2xl object-cover ambient-shadow border border-outline-variant/15"
+                  className="rounded-xl w-full h-auto shadow-2xl object-cover"
                 />
 
                 {/* Floating: Task Completed */}
