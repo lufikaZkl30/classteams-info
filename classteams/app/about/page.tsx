@@ -6,6 +6,11 @@ export const metadata = {
   title: "ClassTeams - About Us",
 };
 
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+};
+
 export default function AboutPage() {
   return (
     <div className="flex flex-col min-h-screen bg-surface text-on-surface">
