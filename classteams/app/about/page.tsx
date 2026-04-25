@@ -3,7 +3,7 @@ import Footer from "@/components/Footer";
 import Image from "next/image";
 
 export const metadata = {
-  title: "About Us - ClassTeams",
+  title: "ClassTeams - About Us",
 };
 
 export default function AboutPage() {

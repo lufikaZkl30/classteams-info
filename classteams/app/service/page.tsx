@@ -2,7 +2,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "ClassTeams - Features",
+  title: "ClassTeams - Service",
 };
 
 export default function ServicePage() {
