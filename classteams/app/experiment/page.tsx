@@ -6,6 +6,11 @@ export const metadata = {
   title: "ClassTeams - Experiment Sandbox",
 };
 
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+};
+
 const tableRows = [
   {
     id: "alpha",

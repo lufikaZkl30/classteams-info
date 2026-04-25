@@ -5,6 +5,11 @@ export const metadata = {
   title: "ClassTeams - Contact",
 };
 
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+};
+
 export default function ContactPage() {
   return (
     <div className="flex flex-col min-h-screen bg-surface text-on-surface">

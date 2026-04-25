@@ -5,6 +5,12 @@ import Image from "next/image";
 export const metadata = {
   title: "ClassTeams - Home",
 };
+
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+};
+
 export default function HomePage() {
   return (
     <div className="flex flex-col min-h-screen bg-surface text-on-surface">
