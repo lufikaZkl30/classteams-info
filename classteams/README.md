@@ -4,7 +4,7 @@ Konversi lengkap dari HTML statis menjadi Next.js + TypeScript + Tailwind CSS.
 
 ## 📋 Prerequisites
 
-- Node.js 18+ 
+- Node.js 20+ 
 - npm atau yarn
 
 ## 🚀 Setup & Running
